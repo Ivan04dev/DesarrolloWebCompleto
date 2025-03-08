@@ -18,7 +18,7 @@
         ]
     ];
 
-    
+    # Ejemplo para recorrer un arreglo asociativo
     foreach($productos as $producto){ ?>
         <ul>
             <li>
