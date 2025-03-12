@@ -1,0 +1,5 @@
+# Correr PHP desde la terminal:
+php -S localhost:3000
+
+En el navegador:
+localhost:3000
